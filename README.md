@@ -1,5 +1,9 @@
 # PieDrive
-
+PieDrive aims to provide an integration platform where you can address in an unified manner all your cloud storages. This allwos for easier mangement of data concerns in a central place. This prototype consists of four main parts:
+* Authentication Server: Cloudfoundry UAA server provides authentication for the user and issues JWT tokens.
+* DevServer: Delivers the front end application.
+* Social Provider Service: Abstracts the cloud storages with help of Spring Social.
+* Gateway: Provides reverse proxy functionality for all services.
 This is an early prototype of PieDrive. The future development will, however, proceed on the original fork.
 
 ## How to start
