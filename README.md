@@ -4,6 +4,7 @@ PieDrive aims to provide an integration platform where you can address in an uni
 * DevServer: Delivers the front end application.
 * Social Provider Service: Abstracts the cloud storages with help of Spring Social.
 * Gateway: Provides reverse proxy functionality for all services.
+
 This is an early prototype of PieDrive. The future development will, however, proceed on the original fork.
 
 ## How to start
